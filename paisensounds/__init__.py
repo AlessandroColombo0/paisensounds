@@ -1,1 +1,1 @@
-from paiseonsounds.make_sound import beep
+from paisensounds.make_sound import beep
