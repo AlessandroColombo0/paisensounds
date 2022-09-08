@@ -4,7 +4,7 @@ def readme():
   with open('README.rst') as f:
     return f.read()
 
-setup(name='beepy',
+setup(name='paisensounds',
       version='1.0.8',
       description='Play notification sounds.',
       long_description=readme(),
