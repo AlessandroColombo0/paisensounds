@@ -2,7 +2,7 @@ import simpleaudio as sa
 
 import os
 
-MODULE_PATH = os.path.dirname(__file__)
+MODULE_PATH = "python_sounds"
 AUDIO_DIR = os.path.join(MODULE_PATH, "audio_data")
 
 wave_dict = {
