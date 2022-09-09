@@ -24,6 +24,6 @@ setup(name='paisensounds',
       packages=['paisensounds'],
       package_data={'paisensounds':['audio_data']},
       python_requires='>=3.0',
-      install_requires=['simpleaudio'],
+      install_requires=['simpleaudio', 'atexit'],
       include_package_data=True,
       zip_safe=False)
